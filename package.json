@@ -1,6 +1,9 @@
 {
     "name": "web3-demo",
     "version": "0.1.0",
+    "engines": {
+        "node": "18.x"
+    },
     "scripts": {
         "build": "webpack",
         "watch": "webpack --watch"
